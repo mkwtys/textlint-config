@@ -1,2 +1,24 @@
 {
+  "plugins": [
+    "html",
+    "jtf-style"
+  ],
+  "rules": {
+    "incremental-headers": true,
+    "max-ten": {
+      "max": 3
+    },
+    "no-doubled-joshi": {
+      "min_interval": 1
+    },
+    "no-dropping-the-ra": true,
+    "no-start-duplicated-conjunction": {
+      "interval": 2
+    },
+    "no-mix-dearu-desumasu": true,
+    "spellcheck-tech-word": true,
+    "jtf-style/2.1.2.漢字": false,
+    "jtf-style/2.1.5.カタカナ": false,
+    "jtf-style/2.1.6.カタカナの長音": false,
+  }
 }
