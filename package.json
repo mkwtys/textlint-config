@@ -21,9 +21,5 @@
     "textlint-rule-sentence-length": "^1.0.4",
     "textlint-rule-spellcheck-tech-word": "^4.1.0"
   },
-  "license": "MIT",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "license": "MIT"
 }
