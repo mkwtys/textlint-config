@@ -11,6 +11,7 @@
     "no-doubled-joshi": {
       "min_interval": 1
     },
+    "no-double-negative-ja": true,
     "no-dropping-the-ra": true,
     "no-start-duplicated-conjunction": {
       "interval": 2
