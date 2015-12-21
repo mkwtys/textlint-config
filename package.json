@@ -22,5 +22,8 @@
     "textlint-rule-sentence-length": "^1.0.4",
     "textlint-rule-spellcheck-tech-word": "^4.1.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  }
 }
