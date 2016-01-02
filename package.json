@@ -20,7 +20,7 @@
     "textlint-rule-no-todo": "^1.0.3",
     "textlint-rule-prh": "^2.2.1",
     "textlint-rule-sentence-length": "^1.0.4",
-    "textlint-rule-spellcheck-tech-word": "^4.1.0"
+    "textlint-rule-spellcheck-tech-word": "^4.1.1"
   },
   "license": "MIT",
   "scripts": {
