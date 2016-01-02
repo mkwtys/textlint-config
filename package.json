@@ -6,7 +6,7 @@
     "textlint-plugin-html": "^0.1.2",
     "textlint-plugin-jtf-style": "^1.0.1",
     "textlint-rule-incremental-headers": "^0.2.0",
-    "textlint-rule-ja-yahoo-kousei": "^1.0.0",
+    "textlint-rule-ja-yahoo-kousei": "^1.0.1",
     "textlint-rule-max-appearence-count-of-words": "^1.0.0",
     "textlint-rule-max-length-of-title": "^1.0.0",
     "textlint-rule-max-number-of-lines": "^1.0.2",
