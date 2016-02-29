@@ -1,8 +1,6 @@
 {
-  "name": "textlint-config",
-  "version": "0.0.0",
-  "devDependencies": {
-    "textlint": "^5.4.0",
+  "private": true,
+  "dependencies": {
     "textlint-plugin-html": "^0.1.2",
     "textlint-plugin-jtf-style": "^1.0.1",
     "textlint-rule-incremental-headers": "^0.2.0",
@@ -23,8 +21,8 @@
     "textlint-rule-spellcheck-tech-word": "^4.1.2",
     "textlint-rule-unexpanded-acronym": "^1.2.1"
   },
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"no test specified\""
-  }
+  "devDependencies": {
+    "textlint": "^5.4.0"
+  },
+  "license": "MIT"
 }
