@@ -5,6 +5,9 @@
   ],
   "rules": {
     "incremental-headers": true,
+    "jtf-style/2.1.2.漢字": false,
+    "jtf-style/2.1.5.カタカナ": false,
+    "jtf-style/2.1.6.カタカナの長音": false,
     "max-ten": {
       "max": 3
     },
@@ -13,13 +16,10 @@
     },
     "no-double-negative-ja": true,
     "no-dropping-the-ra": true,
+    "no-mix-dearu-desumasu": true,
     "no-start-duplicated-conjunction": {
       "interval": 2
     },
-    "no-mix-dearu-desumasu": true,
-    "spellcheck-tech-word": true,
-    "jtf-style/2.1.2.漢字": false,
-    "jtf-style/2.1.5.カタカナ": false,
-    "jtf-style/2.1.6.カタカナの長音": false
+    "spellcheck-tech-word": true
   }
 }
