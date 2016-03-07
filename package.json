@@ -2,7 +2,6 @@
   "private": true,
   "dependencies": {
     "textlint-plugin-html": "^0.1.2",
-    "textlint-plugin-jtf-style": "^1.0.1",
     "textlint-rule-incremental-headers": "^0.2.0",
     "textlint-rule-ja-yahoo-kousei": "^1.0.1",
     "textlint-rule-max-appearence-count-of-words": "^1.0.1",
@@ -16,6 +15,7 @@
     "textlint-rule-no-mix-dearu-desumasu": "^1.4.0",
     "textlint-rule-no-start-duplicated-conjunction": "^1.0.7",
     "textlint-rule-no-todo": "^1.0.3",
+    "textlint-rule-preset-jtf-style": "^2.1.0",
     "textlint-rule-prh": "^2.4.0",
     "textlint-rule-sentence-length": "^1.0.4",
     "textlint-rule-spellcheck-tech-word": "^4.2.0",

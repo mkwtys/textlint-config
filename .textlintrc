@@ -1,13 +1,9 @@
 {
   "plugins": [
-    "html",
-    "jtf-style"
+    "html"
   ],
   "rules": {
     "incremental-headers": true,
-    "jtf-style/2.1.2.漢字": false,
-    "jtf-style/2.1.5.カタカナ": false,
-    "jtf-style/2.1.6.カタカナの長音": false,
     "max-ten": {
       "max": 3
     },
@@ -19,6 +15,12 @@
     "no-mix-dearu-desumasu": true,
     "no-start-duplicated-conjunction": {
       "interval": 2
+    },
+    "preset-jtf-style": {
+      "2.1.2.漢字": true,
+      "2.1.5.カタカナ": true,
+      "2.1.6.カタカナの長音": true,
+      "2.2.1.ひらがなと漢字の使い分け": true
     },
     "spellcheck-tech-word": true
   }
