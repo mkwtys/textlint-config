@@ -3,6 +3,7 @@
     "html"
   ],
   "rules": {
+    "common-misspellings": true,
     "incremental-headers": true,
     "max-ten": {
       "max": 3
