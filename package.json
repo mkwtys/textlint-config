@@ -23,7 +23,7 @@
     "textlint-rule-unexpanded-acronym": "1.2.1"
   },
   "devDependencies": {
-    "textlint": "6.1.1"
+    "textlint": "6.2.0"
   },
   "license": "MIT"
 }
