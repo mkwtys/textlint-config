@@ -24,6 +24,5 @@
   },
   "devDependencies": {
     "textlint": "6.2.0"
-  },
-  "license": "MIT"
+  }
 }
