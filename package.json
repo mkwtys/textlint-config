@@ -23,6 +23,6 @@
     "textlint-rule-unexpanded-acronym": "1.2.1"
   },
   "devDependencies": {
-    "textlint": "6.10.0"
+    "textlint": "6.11.0"
   }
 }
