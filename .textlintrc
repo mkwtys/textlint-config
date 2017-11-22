@@ -1,7 +1,5 @@
 {
-  "plugins": [
-    "html"
-  ],
+  "plugins": ["html"],
   "rules": {
     "common-misspellings": true,
     "incremental-headers": true,
