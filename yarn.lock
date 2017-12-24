@@ -1496,6 +1496,14 @@ sentence-splitter@^2.0.0, sentence-splitter@^2.2.0:
     concat-stream "^1.5.2"
     structured-source "^3.0.2"
 
+sentence-splitter@^3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/sentence-splitter/-/sentence-splitter-3.0.6.tgz#9e0ade1897f9fadd50feb35e0d9550e580f37aca"
+  dependencies:
+    "@textlint/ast-node-types" "^3.0.0"
+    concat-stream "^1.5.2"
+    structured-source "^3.0.2"
+
 set-blocking@~2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
@@ -1915,14 +1923,13 @@ textlint-rule-no-nfd@1.0.1:
     textlint-rule-helper "^1.1.5"
     unorm "^1.4.1"
 
-textlint-rule-no-start-duplicated-conjunction@1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/textlint-rule-no-start-duplicated-conjunction/-/textlint-rule-no-start-duplicated-conjunction-1.1.4.tgz#8306096fa8e26e0eac55af12687034975400f9fd"
+textlint-rule-no-start-duplicated-conjunction@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/textlint-rule-no-start-duplicated-conjunction/-/textlint-rule-no-start-duplicated-conjunction-2.0.2.tgz#49612a49dca18bbe5468019836b5c9be24c09e79"
   dependencies:
     object-assign "^4.0.1"
-    sentence-splitter "^2.0.0"
+    sentence-splitter "^3.0.6"
     textlint-rule-helper "^2.0.0"
-    textlint-util-to-string "^2.1.1"
 
 textlint-rule-no-todo@2.0.0:
   version "2.0.0"
