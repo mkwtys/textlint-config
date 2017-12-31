@@ -1963,11 +1963,11 @@ textlint-rule-prh@5.0.1, textlint-rule-prh@^5.0.0:
     textlint-rule-helper "^2.0.0"
     untildify "^3.0.2"
 
-textlint-rule-sentence-length@1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/textlint-rule-sentence-length/-/textlint-rule-sentence-length-1.1.3.tgz#c8c44e41882d663907f9c1f8b6398d89cabbd6a8"
+textlint-rule-sentence-length@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/textlint-rule-sentence-length/-/textlint-rule-sentence-length-2.0.0.tgz#75273298502a8464d7cbd9900121300d9b89e194"
   dependencies:
-    sentence-splitter "^2.0.0"
+    sentence-splitter "^3.0.6"
     textlint-rule-helper "^2.0.0"
     textlint-util-to-string "^2.1.1"
 
