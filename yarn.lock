@@ -1385,21 +1385,21 @@ sentence-splitter@^2.0.0, sentence-splitter@^2.2.0:
     concat-stream "^1.5.2"
     structured-source "^3.0.2"
 
+sentence-splitter@^3.0.10:
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/sentence-splitter/-/sentence-splitter-3.0.10.tgz#9883d46be71cd6c6d826490133651fe2f151219d"
+  dependencies:
+    "@textlint/ast-node-types" "^4.0.2"
+    concat-stream "^1.5.2"
+    object.values "^1.0.4"
+    structured-source "^3.0.2"
+
 sentence-splitter@^3.0.6:
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/sentence-splitter/-/sentence-splitter-3.0.6.tgz#9e0ade1897f9fadd50feb35e0d9550e580f37aca"
   dependencies:
     "@textlint/ast-node-types" "^3.0.0"
     concat-stream "^1.5.2"
-    structured-source "^3.0.2"
-
-sentence-splitter@^3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/sentence-splitter/-/sentence-splitter-3.0.8.tgz#45fad70c65b097eb63e86d793080d84cc43d677a"
-  dependencies:
-    "@textlint/ast-node-types" "^3.0.0"
-    concat-stream "^1.5.2"
-    object.values "^1.0.4"
     structured-source "^3.0.2"
 
 slice-ansi@0.0.4:
@@ -1765,11 +1765,11 @@ textlint-rule-prh@5.0.1, textlint-rule-prh@^5.0.0:
     textlint-rule-helper "^2.0.0"
     untildify "^3.0.2"
 
-textlint-rule-sentence-length@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/textlint-rule-sentence-length/-/textlint-rule-sentence-length-2.0.2.tgz#a3bf761625fb609fe6abb16012c672bafddcf77f"
+textlint-rule-sentence-length@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/textlint-rule-sentence-length/-/textlint-rule-sentence-length-2.1.1.tgz#a348d784b9a4b7be6929204a15cb4508755b99a3"
   dependencies:
-    sentence-splitter "^3.0.8"
+    sentence-splitter "^3.0.10"
     textlint-rule-helper "^2.0.0"
     textlint-util-to-string "^2.1.1"
 
