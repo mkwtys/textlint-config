@@ -10,7 +10,7 @@
     "textlint-rule-ja-space-after-exclamation": "2.1.3",
     "textlint-rule-ja-space-after-question": "2.2.0",
     "textlint-rule-ja-space-around-code": "2.1.3",
-    "textlint-rule-ja-space-between-half-and-full-width": "2.1.3",
+    "textlint-rule-ja-space-between-half-and-full-width": "2.2.0",
     "textlint-rule-ja-yahoo-kousei": "1.0.3",
     "textlint-rule-max-appearence-count-of-words": "1.0.1",
     "textlint-rule-max-length-of-title": "1.0.1",
