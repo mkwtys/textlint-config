@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "textlint-plugin-html": "0.3.0",
+    "textlint-plugin-html": "1.0.0",
     "textlint-rule-common-misspellings": "1.0.1",
     "textlint-rule-incremental-headers": "0.2.0",
     "textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana": "2.2.0",
